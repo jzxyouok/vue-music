@@ -103,7 +103,7 @@
     }
     .search_content{
         width: 100%;
-        height: 44.467rem;
+        height: 43.18rem;
         background-color: gainsboro;
         position: relative;
         z-index: 2005;
@@ -128,8 +128,14 @@
             }
         }
         .search_wrap{
-            padding-left: 5rem;
-            margin-top: 2.667rem;
+            /*padding-left: 5rem;
+            margin-top: 2.667rem;*/
+            margin: 0 auto;
+            width: 17rem;
+            display: flex;
+            justify-content: center;
+            /*margin-top: 2.667rem;*/
+            padding-top: 2rem;
         }
         .result_content{
             height: 37.067rem;

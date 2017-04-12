@@ -240,7 +240,7 @@
                          float: left;
                      }
                      img{
-                         margin-right:0.667rem;
+                         margin-right:0.4rem;
                      }
                      .text{
                          .songName{
@@ -272,7 +272,7 @@
         }
         .play_content{
             width: 100%;
-            height: 44.467rem;
+            height:100%;
             background-color: antiquewhite;
             position: fixed;
             bottom: 44.467rem;
@@ -369,7 +369,7 @@
                 justify-content: center;
                 align-items: center;
                 height:3.333rem;
-                width:26.667rem;
+                width:100%;
                 .currentTime{
                     width: 3.333rem;
                     background-color: antiquewhite;

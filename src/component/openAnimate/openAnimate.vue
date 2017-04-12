@@ -25,9 +25,10 @@
 </script>
 <style lang="sass" scoped>
     .expend-transition{
+        position:fixed;
         transition: all 1s ease;
-        width: 25rem;
-        height: 44.467rem;
+        width:100%;
+        height: 43.24rem;
         background: url("./img/open.jpg")  no-repeat ;
         background-size:contain ;
     }
